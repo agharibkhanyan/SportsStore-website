@@ -2,17 +2,6 @@
 
 #### Building a web application using `Jersey REST APIs` & `Java Servlets`
 
-----
-Members of Assignment 4 are:
- 
-    1. Artur Gharibkhanyan id 70269260,
-     
-    2. Hugo Aceves Ibarra id 12315858,
-     
-    3. Josue Lopez id 15938432,
-     
-    3. Vinh Chuong id 20376995.
-
 Ecommerce Website that sells sports products.
 
 ### Requirements:
