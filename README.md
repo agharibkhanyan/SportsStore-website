@@ -21,6 +21,8 @@ Ecommerce Website that sells sports products.
       * [x] an application that is the client of the RESTful APIs, generates the HTML pages, and handles requests from the user 
       * [x] provide proper documentation highlighting the details for each RESTful service method
 
+### DEMO ###
+<img src="storefront.mp4" width=250><br>
 
 ### Bonus Feature:
 
