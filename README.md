@@ -22,7 +22,7 @@ Ecommerce Website that sells sports products.
       * [x] provide proper documentation highlighting the details for each RESTful service method
 
 ### DEMO ###
-<img src="storefront.gif" width=500><br>
+<img src="storefront.gif" width=1000><br>
 
 ### Bonus Feature:
 
