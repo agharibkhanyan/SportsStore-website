@@ -46,27 +46,6 @@
                     <a href="#">argharibk@sportstore.com</a>
                     <p>SID: 70269260</p>
                 </div>
-                <div class="card">
-                    <h3>Vinh Chuong</h3>
-                    <p class="title">Sales Director</p>
-                    <p>Responsible for the development of sales strategy and maintaining customer relations.</p>
-                    <a href="#">vinh@sportstore.com</a>
-                    <p>SID: 20376995</p>
-                </div>
-                <div class="card">
-                    <h3>Josue Lopez</h3>
-                    <p class="title">Human Resources Director</p>
-                    <p>Responsible for the inner workings of the company.</p>
-                    <a href="#">josue@sportstore.com</a>
-                    <p>SID: 15938432</p>
-                </div>
-                <div class="card">
-                    <h3>Hugo Aceves Ibarra</h3>
-                    <p class="title">Customer Service Director</p>
-                    <p>Responsible for any customer service requests.</p>
-                    <a href="#">hugo@sportstore.com</a>
-                    <p>SID: 12315858</p>
-                </div>
             </div>
         </div>
     </div>
